@@ -4,6 +4,8 @@ Atividade utilizando google colab e python para visualização de dados, para a 
 Os dados utilizados foram baixados do kaggle, porém se tratam de dados sintéticos. Para treinamento das habilidades com análise de dados e para a atividade da matéria em questão, não há problema na utilização desses dados.
 
 # bibliotecas utilizadas:
--Matplotlib
--Seaborn
--Pandas
+-Matplotlib;
+
+-Seaborn;
+
+-Pandas;
